@@ -1,0 +1,6 @@
+Pseudo Code:
+ Read x 
+Set sum to 0; 
+While(x >= 0) 
+Set sum to x + sum
+Read x
